@@ -10,7 +10,7 @@
 - Kotlin coroutines
 - jetpack navigation component
 - retrofit
-- pagination library
+- paging 3 library
 - viewbinding
 - safe arg plugin
 
